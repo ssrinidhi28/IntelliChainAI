@@ -1,0 +1,10 @@
+{
+  "orders": 13011,
+  "units_sold": 48792,
+  "revenue": 7143779.77,
+  "estimated_margin": 2646524.95,
+  "late_delivery_rate": 0.4966,
+  "unique_products": 20,
+  "date_min": "2025-04-22",
+  "date_max": "2026-10-13"
+}
